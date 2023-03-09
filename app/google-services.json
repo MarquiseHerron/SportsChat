@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963688370460",
+    "firebase_url": "https://findfitness-f73f3-default-rtdb.firebaseio.com",
+    "project_id": "findfitness-f73f3",
+    "storage_bucket": "findfitness-f73f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963688370460:android:c839613be7773eed8aead9",
+        "android_client_info": {
+          "package_name": "com.example.findfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963688370460-no66jtur60qaup4083i4mhkat25gu8cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczzkCSGIBpt6CN3aDHWwveY0HRgiiuVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963688370460-no66jtur60qaup4083i4mhkat25gu8cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
